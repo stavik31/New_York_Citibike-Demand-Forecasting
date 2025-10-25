@@ -1,5 +1,5 @@
 # New York Citibike Demand Forecasting
 
-Please refer to the jupyter notebook for specifics!!
+Please refer to informatics_capstone_projectFinal_SatvikReddyKonda.ipynb for specifics!!
 
 
